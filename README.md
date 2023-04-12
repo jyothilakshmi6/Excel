@@ -7,5 +7,5 @@
 6. In the first row of the Total Cost column, enter the formula:
 =(S2-V2)*(1+W2)
 7. Here, S2 is the Sales value in the corresponding row, V2 is the Profit value, and W2 is the Surcharge value.
-8. Drag the formula in step 6 down to apply it to all rows in the Total Cost column.
+8. Drag the formula in step 6 down to apply it to all rows in the Total Cost column.  
 9.That's it! Now the Excel sheet should have two new columns - Surcharge and Total Cost - which were calculated based on the conditions given in the assignment.
